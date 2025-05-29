@@ -1,2 +1,0 @@
-# persiana-links
-Persiana Ecosystem
